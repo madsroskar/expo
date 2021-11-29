@@ -13,6 +13,7 @@
 - Hook up error recovery manager to rest of module on iOS. ([#14398](https://github.com/expo/expo/pull/14398) by [@esamelson](https://github.com/esamelson))
 - Move persisted error log to EXUpdatesErrorRecovery on iOS. ([#14399](https://github.com/expo/expo/pull/14399) by [@esamelson](https://github.com/esamelson))
 - Add native EXUpdatesCheckOnLaunch: ERROR_RECOVERY_ONLY setting on iOS. ([#14673](https://github.com/expo/expo/pull/14673) by [@esamelson](https://github.com/esamelson))
+- Enhance node binary resolution for Xcode build phases scripts by vendoring source-login-scripts.sh. ([#15336](https://github.com/expo/expo/pull/15336) by [@kudo](https://github.com/kudo))
 
 ### 🐛 Bug fixes
 
